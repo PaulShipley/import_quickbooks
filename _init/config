@@ -1,0 +1,11 @@
+Package: Import Quickbooks
+Description: Import Quickbooks data
+Name: Import Quickbooks data
+Filename: import_quickbooks
+Author: Paul Shipley <paul@paulshipley.id.au>
+Maintenance: Paul Shipley <paul@paulshipley.id.au>
+Homepage: paulshipley.id.au
+Type: extension
+InstallPath: modules/import_quickbooks
+Version: 2.4.0-1
+
